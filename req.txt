@@ -1,0 +1,7 @@
+#Manipulación de datos
+numpy
+pandas
+geopandas
+
+#Machine-Learning
+scikit-learn
